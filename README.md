@@ -1,4 +1,4 @@
-### Hey hoi, Ik ben Rainier 👋👨🏼‍💻
+# Hoi, Ik ben Rainier 👋 👨🏼‍💻
 
 Hier komt binnenkort wat meer informatie over mij 🤔
 <!--

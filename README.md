@@ -4,7 +4,7 @@ Hier komt binnenkort wat meer informatie over mij 🤔
 
 # Wat meer informatie over mij 🌍  ℹ️
 
-- Website
+- Voeg mij toe op <a href="https://www.linkedin.com/in/rainierlaan/">LinkedIn</a> 🧳
 <!--
 **Rainieren/Rainieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

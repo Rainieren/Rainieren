@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey hoi 👋
 
+Hier komt binnenkort wat meer informatie over mij 🤔
 <!--
 **Rainieren/Rainieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

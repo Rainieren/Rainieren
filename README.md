@@ -1,10 +1,13 @@
-# Hoi! Ik ben Rainier 👋 👨🏼‍💻
+# Hi! I'm Rainier 👋 👨🏼‍💻
 
-Hier komt binnenkort wat meer informatie over mij 🤔
+And I'm a passionate Software Engineering student 🎓 . I love to create custom systems, dashboards etc with Laravel and I've been doing so for the last 4 years!
 
-# Wat meer informatie over mij 🌍  ℹ️
+Fun fact: I actually really love cars 🚘.  I almost know every type and model of exotic and specials cars there are (Except oldtimers). Everytime I spot a special car I say the brand and model and it's driving (pun intended) my girlfriend crazy. Currently I dont own a car yet but my dream is to eventually own a nice and special car 😄 
+
+# Some more information about me 🌍  ℹ️:
 
 - Voeg mij toe op <a href="https://www.linkedin.com/in/rainierlaan/">LinkedIn</a> 🧳
+
 <!--
 **Rainieren/Rainieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,8 +10,10 @@ I am currently learning alot of diffirent languages. The languages I've worked w
 - HTML, CSS (Sass & Less)
 - JavaScript (jQuery)
 - Angular
+- GIT
+- Magento 2
 
-Fun fact: I actually really love cars 🚘.  I almost know every type and model of exotic and specials cars there are (Except oldtimers). Everytime I spot a special car I say the brand and model and it's driving (pun intended) my girlfriend crazy. Currently I dont own a car yet but my dream is to eventually own a nice and special car 😄 
+Fun fact: I actually really love cars 🚘.  I almost know every type and model of exotic and specials cars there are (Except oldtimers). Everytime I spot a special car I say the brand and model and it's driving (pun intended) my girlfriend crazy. Currently I dont own a car yet but my dream is to eventually own a Porsche Panamera GTS Grand Turismo 😄 
 
 # Some more information about me 🌍  ℹ️:
 

@@ -1,6 +1,6 @@
 # Hi! I'm Rainier 👋 👨🏼‍💻
 
-I'm a passionate Software Engineering student 🎓 . I love to create custom systems, dashboards etc with Laravel and I've been doing so for the last 4 years! If you are looking for a cheap custom system don't hesitate to <a href="mailto:info@rainierlaan.nl">email me</a>.
+I'm a passionate Software Engineering student 🎓 . I love to create custom systems, dashboards etc with Laravel and I've been doing so for the last 5 years! If you are looking for a cheap custom system don't hesitate to <a href="mailto:info@rainierlaan.nl">email me</a>.
 
 I am currently learning alot of diffirent languages. The languages I've worked with are
 

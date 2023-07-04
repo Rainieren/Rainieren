@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rainier!
 
-*Medior Full-stack web-developer @ [Elgentos](https://elgentos.nl/)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+*Full-stack web-developer @ [VCSW](https://vcsw.nl/)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![](https://komarev.com/ghpvc/?username=rainieren&color=brightgreen)
 
